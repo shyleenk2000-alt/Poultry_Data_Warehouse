@@ -29,7 +29,7 @@ Improvements & Future Work
 
 ---
 
-🚀 Conclusion
+ Conclusion
 
 This project provides a foundational understanding of:
 
