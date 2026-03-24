@@ -1,0 +1,6 @@
+SELECT TOP (1000) [DateID]
+      ,[FullDate]
+      ,[Day]
+      ,[Month]
+      ,[Year]
+  FROM [Poultry_1].[dbo].[Dim_Date]
