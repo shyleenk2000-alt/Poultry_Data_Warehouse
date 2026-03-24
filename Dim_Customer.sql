@@ -1,0 +1,5 @@
+SELECT TOP (1000) [CustomerID]
+      ,[CustomerName]
+      ,[Contact]
+      ,[City]
+  FROM [Poultry_1].[dbo].[Dim_Customer]
