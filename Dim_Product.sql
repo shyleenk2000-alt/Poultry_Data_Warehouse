@@ -1,0 +1,5 @@
+SELECT TOP (1000) [ProductID]
+      ,[ProductName]
+      ,[Category]
+      ,[Price]
+  FROM [Poultry_1].[dbo].[Dim_Product]
