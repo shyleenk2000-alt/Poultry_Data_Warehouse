@@ -1,4 +1,4 @@
-# Poultry_Data_Warehouse
+Poultry_Data_Warehouse
  Project Overview
 
 This project demonstrates the end-to-end process of data modeling, database creation, and data loading using SQL.
